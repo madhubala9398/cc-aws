@@ -1,0 +1,6 @@
+customhost = "employee-data.cervmkbz5hve.us-east-2.rds.amazonaws.com"
+customuser = "root"
+custompass = "madhubala"
+customdb = "employeeDB"
+custombucket = "employeedata-bucket"
+customregion = "us-east-2"
